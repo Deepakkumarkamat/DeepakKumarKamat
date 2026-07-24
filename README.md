@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nodejs-Dark.svg" style="display:none">
+<img align="right" alt="Animated coding terminal" width="360" src="https://raw.githubusercontent.com/Deepakkumarkamat/Deepakkumarkamat/main/assets/coding-terminal.svg">
 
 ```typescript
 const deepak = {
