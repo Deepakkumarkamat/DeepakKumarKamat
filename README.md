@@ -117,11 +117,7 @@ const deepak = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepakkumarkamat&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" />
-</div>
-
-<br>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Deepakkumarkamat&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" /> </div> <br>
 
 ## 🐍 Contribution Snake
 
