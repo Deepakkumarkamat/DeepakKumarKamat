@@ -133,8 +133,6 @@ const deepak = {
 
 </div>
 
-> 💡 **Setup note:** The snake animation above requires a one-time GitHub Action in your repo. See [platane/snk](https://github.com/Platane/snk#-github-action) — it auto-generates and updates this SVG daily.
-
 <br>
 
 ## 🤝 Connect With Me
