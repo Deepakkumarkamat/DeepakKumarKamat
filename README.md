@@ -106,7 +106,7 @@ const deepak = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumarkamat&theme=tokyonight&border_radius=12&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Deepakkumarkamat&theme=tokyonight&border_radius=12&hide_border=true" alt="streak stats" />
 </div>
 
 <div align="center">
@@ -128,7 +128,7 @@ const deepak = {
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Deepakkumarkamat/Deepakkumarkamat/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
 <!--END_SECTION:snake-->
 
 </div>
