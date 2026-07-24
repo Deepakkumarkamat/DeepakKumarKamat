@@ -128,7 +128,7 @@ const deepak = {
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="src="https://raw.githubusercontent.com/Deepakkumarkamat/Deepakkumarkamat/output/dist/github-snake-dark.svg"" alt="snake animation" width="95%"/>
+<img src="https://raw.githubusercontent.com/Deepakkumarkamat/Deepakkumarkamat/output/dist/github-snake-dark.svg" alt="snake animation" width="95%"/>
 <!--END_SECTION:snake-->
 
 </div>
