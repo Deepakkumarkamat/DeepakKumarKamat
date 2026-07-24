@@ -13,7 +13,7 @@
 <!-- Profile view counter + social badges -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Deepakkumarkamat&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
@@ -101,16 +101,16 @@ const deepak = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepakkumarkamat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumarkamat&layout=compact&theme=tokyonight&border_radius=12&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=12&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumarkamat&theme=tokyonight&border_radius=12&hide_border=true" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkamat&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <br>
@@ -118,7 +118,7 @@ const deepak = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepakkumarkamat&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=7" />
 </div>
 
 <br>
@@ -155,5 +155,5 @@ const deepak = {
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Deepak</a> — thanks for stopping by!</i>
+  <i>⭐️ From <a href="https://github.com/Deepakkumarkamat">Deepak</a> — thanks for stopping by!</i>
 </div>
